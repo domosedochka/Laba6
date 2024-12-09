@@ -36,5 +36,4 @@
   <img src="При нажатии на напоминание пользователь попадает в само приложение, где его напоминание уже сохранено.
 <div align="left">
   <img src="https://github.com/domosedochka/Laba6/blob/main/Screenshot_2024-12-09-22-45-34-542_com.miui.videoplayer.jpg" width="200" />
-</div>" width="200" />
 </div>
